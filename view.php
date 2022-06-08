@@ -19,7 +19,6 @@ if(!isset($_SESSION['userData'])){
 	</header>
 	<p class="main_title">
 		Login & Registration with google using Php 	<br/>
-		<a href="http://www.codecastra.com/login-with-google-using-php/"><small>← Back to article</small></a>
 	</p>
 	<section class="main">
 		<div class="inner">	
@@ -57,11 +56,11 @@ if(!isset($_SESSION['userData'])){
 	</section>
 	<section class="content content--related">
 		<p>If you enjoyed this demo you might also like:</p>
-		<a class="media-item" href="http://codecastra.com/login-with-facebook-using-php/">
+		<a class="media-item" href="#">
 			<img class="media-item__img" src="assets/related/related_fb.png">
 			<h3 class="media-item__title">Login & Registration With  Facebook</h3>
 		</a>
-		<a class="media-item" href="http://codecastra.com/login-twitter-using-php/">
+		<a class="media-item" href="#">
 			<img class="media-item__img" src="assets/related/related_twitter.png">
 			<h3 class="media-item__title">Login & Registration With  Twitter</h3>
 		</a>

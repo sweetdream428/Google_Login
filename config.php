@@ -8,10 +8,10 @@ $password = "";
 $db = "db_oauth";
 
 ##### Google App Configuration #####
-$googleappid = "YourGoogleAppID"; 
-$googleappsecret = "YourGoogleAppSecret"; 
+$googleappid = "934604024808-vbrcoa5t2cku5kfss40beqibm5e4cftc.apps.googleusercontent.com"; 
+$googleappsecret = "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"; 
 // $redirectURL = "http://localhost:81/LoginwithGoogle/authenticate.php"; 
-$redirectURL = "YourRedirectURL"; 
+$redirectURL = "http://localhost/authenticate.php"; 
 
 ##### Create connection #####
 $conn = new mysqli($servername, $username, $password, $db);
